@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+}
+
+input{
+  width: 200px;
+  text-align: center;
+}
+
+.FormInput, .Table {
+  padding: 2px;
+  margin: 5px;
+}
+
+.Table td, .Table th, .Table td button{
+  padding: 4px;
+  margin: 4px;
+  
+}
+
+.MyTable{
+  border-collapse: collapse;
+  width: 100%;
+  margin:10px;
+  padding: 10px;
+}
+
+.MyTable th, .MyTable td{
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.MyTable th{
+  background-color: #f2f2f2;
+}
+
+#submit{
+  color: #f2f2f2;
+  border: 2px solid green;
+  background-color: green;
+  border-radius: 5px;
+  padding:4px;
+}
+
+#update_btn{
+  color: #f2f2f2;
+  border: 2px solid blue;
+  background-color: blue;
+  border-radius: 5px;
+}
+
+#delete_btn{
+  color: #f2f2f2;
+  border: 2px solid red;
+  background-color: red;
+  border-radius: 5px;
+}
