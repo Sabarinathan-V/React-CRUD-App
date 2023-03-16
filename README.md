@@ -18,4 +18,4 @@ This app was built usingthe following technologies:
 
 # Check the Link
 
-[GitHub](https://joyful-dango-79b130.netlify.app/)
+[React-CRUD-App](https://joyful-dango-79b130.netlify.app/)
